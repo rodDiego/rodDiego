@@ -1,7 +1,18 @@
 ## Hi there 👋
 
+## Languages, Frameworks, and Tools I've Used
+
+### 🧠 Languages
+[![My Skills](https://skillicons.dev/icons?i=py,c,java,js,css,html,md,cs)](https://skillicons.dev)
+
+### 🧩 Frameworks
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,express)](https://skillicons.dev)
+
+### 🛠️ Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,mysql,postgres,replit,latex,figma,blender,unity,nodejs,npm)](https://skillicons.dev)
+
 <!--
-**rodDiego/rodDiego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LopsidedBus132/LopsidedBus132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
